@@ -1,0 +1,6 @@
+com\test\employee\EmployeeApplication.class
+com\test\employee\service\EmployeeImpl.class
+com\test\employee\worker\departmentConsumer.class
+com\test\employee\service\EmployeeService.class
+com\test\employee\clients\KafkaClient.class
+com\test\employee\models\EmployeeDetails.class
